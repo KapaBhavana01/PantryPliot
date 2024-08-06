@@ -17,5 +17,5 @@ Pantry Pilot helps you:
 - Track your groceries.
 - Streamline your shopping experience.
 
-Visit the live application here : https://pantry-pliot.vercel.app/
+Visit the live application here : https://pantry-pliot-bhavana-kapas-projects.vercel.app/
 
