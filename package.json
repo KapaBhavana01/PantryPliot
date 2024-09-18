@@ -22,7 +22,7 @@
     "firebase": "^10.12.4",
     "fs": "^0.0.1-security",
     "mqtt": "^5.9.1",
-    "next": "14.2.5",
+    "next": "14.2.10",
     "notistack": "^3.0.1",
     "openai": "^4.53.2",
     "paho-mqtt": "^1.1.0",
